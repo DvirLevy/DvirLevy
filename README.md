@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/C4D03AQGSy0LwIXqHKw/profile-displayphoto-shrink_200_200/0/1520150490709?e=1681344000&v=beta&t=7_ZQUiaouXZVv1hcmwShxdGKCw5g-mrIcXW2EFi_gGA">
+<!-- <img src="https://media.licdn.com/dms/image/C4D03AQGSy0LwIXqHKw/profile-displayphoto-shrink_200_200/0/1520150490709?e=1681344000&v=beta&t=7_ZQUiaouXZVv1hcmwShxdGKCw5g-mrIcXW2EFi_gGA"> -->
 
 <h2> Hey there! I'm Dvir.</h2>
 
