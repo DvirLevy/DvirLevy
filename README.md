@@ -21,7 +21,7 @@ My Profile
       <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="60" height="60" />
       <img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" width="60" height="60" />
       <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="60" height="60" />
-      <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60" height="60" /><p/>
+      <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="90" height="60" /><p/>
   
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
