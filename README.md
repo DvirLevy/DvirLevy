@@ -9,6 +9,7 @@
 
 <h3> 🛠 &nbsp;My Tech Stack</h3>
    <p><img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="60" height="60" />
+      <img src="https://juststickers.in/wp-content/uploads/2018/08/redux.png" width="60" height="60" />
       <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="60" height="60" />
       <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="60" height="60" />
       <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="60" height="60" />
