@@ -15,8 +15,8 @@ My Profile
 <br/>
 - 🌐 &nbsp;<br/>
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)<br/>
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)<br/>
-  [![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)](https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif)<br/>
+  ![Bootstrap]<img src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C" /><br/>
+   https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif <br/>
 <iframe src="https://giphy.com/embed/iFmw13LV1hHhViPPWz" width="480" height="274" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/esveo-react-spinner-reactjs-iFmw13LV1hHhViPPWz">via GIPHY</a></p>br/>
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
