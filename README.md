@@ -16,9 +16,9 @@ My Profile
 - 🌐 &nbsp;<br/>
   ![JavaScript]<img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript")<br/>
   ![Bootstrap]<img src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C" /><br/>
-    <img src="[https://giphy.com/embed/eNAsjO55tPbgaor7ma](https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif)" width="238" height="240" />
+    <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="238" height="240" /><br/>
     
-    <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" />
+  
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
