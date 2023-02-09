@@ -3,8 +3,8 @@
 <h2> Hey there! I'm Dvir Levy.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- <img src="https://juststickers.in/wp-content/uploads/2016/05/full-stack-developer-badge.png" width="18" height="18"> I'm a Full Stack Developer<img/>
+- 🤔 &nbsp; I love explore new technologies and developing software solutions.
 - 💼 &nbsp; Working as a QA Engineer at Moovit.
 
 <h3> 🛠 &nbsp;My Tech Stack</h3>
