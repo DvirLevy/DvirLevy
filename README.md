@@ -39,6 +39,6 @@ My Profile
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/dvirlevyhakak/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Dvir%20Levy%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/dvirlevyhakak/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Dvir%20Levy-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:DvirLH1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-DvirLH1@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
