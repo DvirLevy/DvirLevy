@@ -1,13 +1,13 @@
 <!-- <img src="https://media.licdn.com/dms/image/C4D03AQGSy0LwIXqHKw/profile-displayphoto-shrink_200_200/0/1520150490709?e=1681344000&v=beta&t=7_ZQUiaouXZVv1hcmwShxdGKCw5g-mrIcXW2EFi_gGA"> -->
 
-<h2> Hey there! I'm Dvir.</h2>
+<h2> Hey there! I'm Dvir Levy.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 💼 &nbsp; Working as a QA Engineer at Moovit.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;My Tech Stack</h3>
    <p><img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="60" height="60" />
       <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="60" height="60" />
       <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="60" height="60" />
