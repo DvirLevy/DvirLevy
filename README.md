@@ -2,8 +2,8 @@
 
 <!-- <h2> Hey there! I'm Dvir Levy.</h2> -->
 <p align="center">
-# I'm Dvir Levy
-# Full Stack Developer 👨‍💻 </p>
+## I'm Dvir Levy
+## Full Stack Developer 👨‍💻 </p>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
    😃 &nbsp; I love explore new technologies and developing software solutions.<br/>
