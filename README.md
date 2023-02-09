@@ -10,12 +10,6 @@ My Profile
 - 💼 &nbsp; Working as a QA Engineer at Moovit.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
-
-- 💻 &nbsp;
-<br/>
-- 🌐 &nbsp;<br/>
-  ![JavaScript]<img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript")<br/>
-  ![Bootstrap]<img src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C" /><br/>
    <p><img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="60" height="60" />
       <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="60" height="60" />
       <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="60" height="60" />
@@ -23,16 +17,6 @@ My Profile
       <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="60" height="60" />
       <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="90" height="60" />
       <img src="https://media.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.gif" width="60" height="60" /><p/>
-  
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-- 🖥 &nbsp;
   <br/>
 
 <a href="https://github.com/AVS1508">
