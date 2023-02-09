@@ -40,5 +40,5 @@ My Profile
 
 <p align="center">
 <a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://www.linkedin.com/in/dvirlevyhakak/"></a>
-<a href="mailto:DvirLH1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:DvirLH1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-DvirLH1@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
