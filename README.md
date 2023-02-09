@@ -5,8 +5,8 @@
 # Full Stack Developer 👨‍💻
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-- 😃 &nbsp; I love explore new technologies and developing software solutions.<br/>
-- 💼 &nbsp; Working as a QA Engineer at Moovit.
+   😃 &nbsp; I love explore new technologies and developing software solutions.<br/>
+   💼 &nbsp; Working as a QA Engineer at Moovit.
 
 <h3> 🛠 &nbsp;My Tech Stack</h3>
    <p><img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="60" height="60" />
