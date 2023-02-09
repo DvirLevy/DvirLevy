@@ -11,16 +11,15 @@
    <p><img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="60" height="60" />
       <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="60" height="60" />
       <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="60" height="60" />
-      <img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" width="60" height="60" />
       <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="60" height="60" />
       <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="90" height="60" />
       <img src="https://media.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.gif" width="60" height="60" /><p/>
   <br/>
 
-<a href="https://github.com/AVS1508">
+<!-- <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DvirLevy&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DvirLevy&theme=buefy&layout=compact" />
-</a>
+</a> -->
 
 <br/>
 
