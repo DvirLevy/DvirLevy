@@ -1,8 +1,8 @@
 <!-- <img src="https://media.licdn.com/dms/image/C4D03AQGSy0LwIXqHKw/profile-displayphoto-shrink_200_200/0/1520150490709?e=1681344000&v=beta&t=7_ZQUiaouXZVv1hcmwShxdGKCw5g-mrIcXW2EFi_gGA"> -->
 
 <!-- <h2> Hey there! I'm Dvir Levy.</h2> -->
-<h1 align="center" I'm Dvir Levy />
-<h1 align="center"Full Stack Developer 👨‍💻 />
+<h1 align="center"> I'm Dvir Levy <h1/>
+<h1 align="center"> Full Stack Developer 👨‍💻 <h1/>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
    😃 &nbsp; I love explore new technologies and developing software solutions.<br/>
