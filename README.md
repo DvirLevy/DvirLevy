@@ -1,8 +1,8 @@
 <!-- <img src="https://media.licdn.com/dms/image/C4D03AQGSy0LwIXqHKw/profile-displayphoto-shrink_200_200/0/1520150490709?e=1681344000&v=beta&t=7_ZQUiaouXZVv1hcmwShxdGKCw5g-mrIcXW2EFi_gGA"> -->
 
 <!-- <h2> Hey there! I'm Dvir Levy.</h2> -->
-##I'm Dvir Levy
-##Full Stack Developer 👨‍💻
+## I'm Dvir Levy
+## Full Stack Developer 👨‍💻
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
    😃 &nbsp; I love explore new technologies and developing software solutions.<br/>
