@@ -6,17 +6,19 @@
    😃 &nbsp; Bringing Forth a positive attitude, willingness and motivition
 
 <h3> 🛠 &nbsp;My Tech Stack</h3>
-   <p><img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="60" height="60" />
+   <p>
+      <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="60" height="60" />
       <img src="https://juststickers.in/wp-content/uploads/2018/08/redux.png" width="60" height="60" />
       <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="60" height="60" />
       <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="60" height="60" />
       <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="60" height="60" />
+      <br/>
       <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="90" height="60" />
       <img src="https://media.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.gif" width="60" height="60" />
       <img src="https://ih1.redbubble.net/image.2083639330.4034/st,small,507x507-pad,600x600,f8f8f8.jpg" width="90" height="60" />
-      <img src="https://www.nginx.com/wp-content/uploads/2018/08/NGINX-logo-rgb-large.png" width="90" height="60" /></p>
+      <img src="https://www.nginx.com/wp-content/uploads/2018/08/NGINX-logo-rgb-large.png" width="90" height="60" />
       <img src="https://emojis.slackmojis.com/emojis/images/1643514173/1383/typescript.png?1643514173" width="60" height="60" />
-  <br/>
+   </p><br/>
 
 <!-- <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DvirLevy&theme=buefy&show_icons=true" />
