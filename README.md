@@ -1,5 +1,5 @@
 ## I'm Dvir Levy
-## Full Stack Developer 👨‍💻
+## Frontend Developer 👨‍💻
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
    😃 &nbsp; I love explore new technologies and developing software solutions.<br/>
