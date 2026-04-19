@@ -1,6 +1,6 @@
 <h1 align="center">I'm Dvir Levy 👋</h1>
-<h2 align="center">Automation Engineer</h2>
-<h3 align="center">Playwright (TypeScript) | CI/CD & DevOps-minded | Frontend (React)</h3>
+<h2 align="center">AI Software Engineer</h2>
+<h3 align="center">Backend (Node.js) | AI Systems | Cloud (AWS)</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dvirlevyhakak/">
@@ -18,98 +18,80 @@
 
 <h3>👨🏻‍💻 About Me</h3>
 
-- 🧪 I build **scalable E2E automation systems** with **Playwright + TypeScript** (POM / component-based objects, stability-first).
-- ☁️ I connect testing to real infra: **CI/CD pipelines**, cloud-triggered runs, reporting, and notifications.
-- 🛠️ Strong on **debugging + observability** (logs/metrics/traces mindset) so failures are understandable without reading code.
-- ⚛️ I also develop frontend tools and UIs with **React + TypeScript** when it makes automation/engineering workflows better.
+- I build **AI-driven backend systems** using **Node.js + TypeScript**
+- Strong focus on **system design, scalability, and cloud-based architectures**
+- Experience building **LLM-based applications**, including RAG pipelines and semantic search
+- Work with **AWS infrastructure**, APIs, databases, and distributed systems
 
 ---
 
-<h3>🚀 Featured: Cloud-Driven E2E Automation (Portfolio)</h3>
+<h3>🚀 Featured Project: AI RAG System (Production)</h3>
 
-✅ A real-world style testing platform I built for my portfolio:
+A full AI system I designed and built end-to-end:
 
-- **AWS API Gateway + Lambda** triggers **GitHub Actions** (`workflow_dispatch`)
-- Runs **cross-browser Playwright tests** (Chromium / Firefox / WebKit)
-- Publishes **Playwright HTML reports** to **GitHub Pages**
-- Sends **email notifications** with the latest report link
+- Built a **RAG system** using **LangChain (JS), OpenAI, PostgreSQL (pgvector)**
+- Implemented **document ingestion pipeline** (chunking, embeddings, metadata)
+- Developed **semantic search & retrieval logic**
+- Built a **Node.js + Express API** serving real-time AI responses
+- Designed **metadata schema** for filtering and structured retrieval
 
-> Goal: make automation feel like a production CI system — reliable, observable, and stakeholder-friendly.
-
----
-
-<h3>🧰 Core Skills</h3>
-
-- **Automation:** Playwright (TS), Selenium-based frameworks, test architecture, flaky-test reduction, reporting
-- **CI/CD & Infra:** GitHub Actions, Docker, AWS (Lambda/API GW/S3), deployment flows
-- **Web:** TypeScript/JavaScript, React, Node.js, REST APIs
-- **Quality Mindset:** testability, data strategy, monitoring, fast feedback loops
-
----
-<h2>🛠 Tech Stack</h2>
+**Production & Infra:**
+- Deployed on **AWS EC2**
+- Managed with **PM2 + Nginx**
+- Integrated with **frontend (React)** including AI avatar interaction
 
 ---
 
-### 🧪 Automation & Testing
+<h3>🧠 What I Focus On</h3>
+
+- Backend architecture & service design  
+- AI systems (LLMs, RAG, embeddings)  
+- Cloud infrastructure (AWS, deployments, observability)  
+- Building production-ready systems end-to-end  
+
+---
+
+<h3>🛠 Tech Stack</h3>
+
+### Backend & APIs
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
 </p>
 
 ---
 
-### 🚀 CI/CD & DevOps
+### AI & Data
+- OpenAI  
+- LangChain (JS)  
+- RAG systems  
+- Embeddings & semantic search  
+- PostgreSQL (pgvector)  
+
+---
+
+### Cloud & Infrastructure
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45"/>
 </p>
 
----
-
-### ☁️ Cloud & Infrastructure
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55"/>
-</p>
-
-• AWS Lambda  
-• API Gateway  
-• S3  
-• Cloud-based test triggers  
+- AWS EC2 / S3 / Lambda / API Gateway  
+- CI/CD workflows (GitHub Actions)  
+- PM2 process management  
 
 ---
 
-### 🗄 Databases
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="45"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="45"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="45"/>
-          
-</p>
-
-• Complex SQL validations  
-• Data integrity checks in automation  
-
----
-
-### ⚛️ Frontend & Tooling
+### Frontend
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="45"/>
 </p>
 
-• Internal tools development  
-• Automation dashboards  
-• Portfolio infrastructure  
-
----
-
-
+- React + TypeScript  
+- Vite + modern UI tooling  
 
 ---
 
@@ -123,11 +105,3 @@
     <img alt="Email" src="https://img.shields.io/badge/Email-DvirLH1@gmail.com-blue?style=flat-square&logo=gmail">
   </a>
 </p>
-
-<!-- Optional GitHub Stats (uncomment if you want) -->
-<!--
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DvirLevy&theme=github_dark&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DvirLevy&theme=github_dark&layout=compact" />
-</p>
--->
