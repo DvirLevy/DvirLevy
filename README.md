@@ -1,6 +1,6 @@
 <h1 align="center">I'm Dvir Levy 👋</h1>
 <h2 align="center">AI Software Engineer</h2>
-<h3 align="center">Backend (Node.js) | AI Systems | Cloud (AWS)</h3>
+<h3 align="center">Frontend (React-Vite) | Backend (Node.js) | AI Systems | Cloud (AWS)</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dvirlevyhakak/">
