@@ -63,6 +63,7 @@ A full AI system I designed and built end-to-end:
 </p>
 
 - Node.js + Express  
+- Jest for unit testing  
 - Python + FastAPI  
 - Pytest for unit testing  
 
