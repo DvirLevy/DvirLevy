@@ -53,12 +53,18 @@ A full AI system I designed and built end-to-end:
 
 <h3>🛠 Tech Stack</h3>
 
-### Backend & APIs
+#### Backend & APIs
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45"/>
 </p>
+
+- Node.js + Express  
+- Python + FastAPI  
+- Pytest for unit testing  
 
 ---
 
@@ -92,17 +98,10 @@ A full AI system I designed and built end-to-end:
 
 - React + TypeScript  
 - Vite + modern UI tooling  
+- Vitest for unit testing  
 
 ---
 
-<h3>📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DvirLevy&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DvirLevy&hide_border=true" height="165"/>
-</p>
-
----
 
 <h3>🤝 Connect with Me</h3>
 
