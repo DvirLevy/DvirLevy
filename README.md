@@ -18,10 +18,18 @@
 
 <h3>👨🏻‍💻 About Me</h3>
 
-- I build **AI-driven backend systems** using **Node.js + TypeScript**
-- Strong focus on **system design, scalability, and cloud-based architectures**
-- Experience building **LLM-based applications**, including RAG pipelines and semantic search
-- Work with **AWS infrastructure**, APIs, databases, and distributed systems
+I design and ship **AI-driven backend systems** end-to-end — from architecture and data pipelines to production deployment. My focus is **Node.js/TypeScript backends, LLM-powered applications (RAG, semantic search), and AWS-based infrastructure** that holds up under real users, not just demos.
+
+<!-- TODO: add a concrete line here, e.g. "X years of experience" or "Currently building AI products at <company>" -->
+
+---
+
+<h3>📌 Pinned Projects</h3>
+
+<!-- TODO: replace remaining placeholder with your actual repo link — this section is what funnels visitors into your code -->
+- **[AI RAG System](#)** — Production RAG pipeline (LangChain JS, OpenAI, pgvector) serving real-time AI responses; deployed on AWS EC2 with PM2 + Nginx.
+- **[Telegram Bot](https://github.com/DvirLevy/chat-bot-fe)** ([backend](https://github.com/DvirLevy/chat-bot-be)) — Telegram bot with a React frontend and a Python FastAPI backend.
+- **[Project Name](#)** — One-line outcome-focused description.
 
 ---
 
@@ -40,25 +48,24 @@ A full AI system I designed and built end-to-end:
 - Managed with **PM2 + Nginx**
 - Integrated with **frontend (React)** including AI avatar interaction
 
----
-
-<h3>🧠 What I Focus On</h3>
-
-- Backend architecture & service design  
-- AI systems (LLMs, RAG, embeddings)  
-- Cloud infrastructure (AWS, deployments, observability)  
-- Building production-ready systems end-to-end  
 
 ---
 
 <h3>🛠 Tech Stack</h3>
 
-### Backend & APIs
+#### Backend & APIs
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45"/>
 </p>
+
+- Node.js + Express  
+- Jest for unit testing  
+- Python + FastAPI  
+- Pytest for unit testing  
 
 ---
 
@@ -92,8 +99,10 @@ A full AI system I designed and built end-to-end:
 
 - React + TypeScript  
 - Vite + modern UI tooling  
+- Vitest for unit testing  
 
 ---
+
 
 <h3>🤝 Connect with Me</h3>
 
